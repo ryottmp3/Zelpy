@@ -1,4 +1,5 @@
-# Zel - Zelda in Python
+# Zelpy - Zelda in Python
+### A Proof-of-Concept
 
 ## On Ubuntu-Based Linux:
 1. Open Terminal (CTRL + ALT + T)
