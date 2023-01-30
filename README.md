@@ -1,6 +1,6 @@
 # Zel - Zelda in Python
 
-## On Linux:
+## On Ubuntu-Based Linux:
 1. Open Terminal (CTRL + ALT + T)
 2. Run `sudo apt update` 
 3. Run `sudo apt install python3`
