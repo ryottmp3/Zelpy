@@ -1,7 +1,9 @@
 # Zelpy - Zelda in Python
-### A Proof-of-Concept
+   A Proof-of-Concept
+   
+## Installation Instructions
 
-## On Ubuntu-Based Linux:
+### On Ubuntu-Based Linux:
 1. Open Terminal (CTRL + ALT + T)
 2. Run `sudo apt update` 
 3. Run `sudo apt install python3`
